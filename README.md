@@ -129,8 +129,7 @@ pip install -r requirements.txt
 - **Raporlama (05):** Bir OpenAI API key gerektirir (`export OPENAI_API_KEY="sk-..."`).
 
 > **Not:** Bu repo, tensör dosyalarını (`.npy`), eğitilmiş model ağırlıklarını
-> (`.pt`) veya ham videoları içermez (`.gitignore` ile hariç tutulmuştur) — bunlar
-> onlarca-yüzlerce GB boyutunda, Git/GitHub buna uygun değil. Projeyi sıfırdan
+> (`.pt`) veya ham videoları içermez (`.gitignore` ile hariç tutulmuştur). Projeyi sıfırdan
 > reprodüklemek için önce [IKEA ASM Dataset](https://ikeaasm.github.io/)'ten ham
 > videoları indirip aşağıdaki adımları sırayla çalıştırman gerekir.
 
