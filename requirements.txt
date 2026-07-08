@@ -1,0 +1,11 @@
+# Yerel on-isleme (01_preprocessing) icin:
+opencv-python>=4.8
+numpy>=1.24
+
+# Feature cikarma + model egitimi + cikarim (02, 03, 04) icin:
+torch>=2.1
+transformers>=4.36
+scikit-learn>=1.3
+
+# LLM rapor uretimi (05_llm_report) icin:
+openai>=1.0

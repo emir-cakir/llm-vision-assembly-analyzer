@@ -1,0 +1,28 @@
+# Veri / model dosyalari (buyuk, repo'ya eklenmemeli)
+*.npy
+*.pt
+*.avi
+*.mp4
+tensors/
+tensors_fps8/
+sequences/
+features/
+gt_segments.json
+metadata.json
+video_analysis_report*.json
+verimlilik_raporu*.txt
+run_log*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# API anahtarlari / sirlar
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
